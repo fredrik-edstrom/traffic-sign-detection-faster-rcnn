@@ -59,7 +59,7 @@ The model was trained to:
 
 Example of object detection and classification inference:
 
-![Traffic Sign Detection](application/src/presentation/img/prediction_example.png)
+![Traffic Sign Detection](application/src/presentation/img/Prediction_example.png)
 
 ---
 
