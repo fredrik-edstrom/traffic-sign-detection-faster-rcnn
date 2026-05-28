@@ -4,7 +4,7 @@ Computer vision application for traffic sign detection using Faster R-CNN, PyTor
 The application uses a Faster R-CNN model built with PyTorch to detect and classify traffic signs from real-world street images using object detection and bounding box annotations.
 
 This project was developed as part of the *Machine Learning & Deep Learning* course at Teknikhögskolan Göteborg.
-This repository was originally created on a school-linked GitHub account and has been reuploaded to preserve the project in an active portfolio.
+This repository was originally created on a school-linked GitHub account and has been reuploaded to preserve the project in an accesible portfolio.
 
 ⚠️ This is an older project and does not fully reflect my current coding standards or development workflow, but it represents one of my earlier deep learning and computer vision projects.
 
